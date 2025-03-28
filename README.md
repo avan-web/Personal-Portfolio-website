@@ -7,6 +7,5 @@ This is my Simple Personal Portfolio Website, Where I showcase my skills and Pro
 ## Technologies used
 - Html
 - Css
-- JavaScript
 ## Contact
 Email : avanthikavaru003@gmail.com
